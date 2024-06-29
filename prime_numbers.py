@@ -33,4 +33,8 @@ prime_numbers_check(num)  # call the method to check if the number is prime
 
 start = int(input("Enter your start number to check in a range: "))
 end = int(input("Enter your end number to check a number in a range: "))
+
 prime_by_loop(start, end)  # call the method to print prime numbers in the given range
+
+prime_by_loop(start, end)  # call the method to print prime numbers in the given range
+
