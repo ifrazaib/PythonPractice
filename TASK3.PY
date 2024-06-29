@@ -1,0 +1,2 @@
+print("agri")
+print("laptop")
