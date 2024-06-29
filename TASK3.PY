@@ -1,2 +1,0 @@
-print("agri")
-print("laptop")
