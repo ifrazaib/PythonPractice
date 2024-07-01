@@ -14,7 +14,7 @@ def print_primes_in_loop(num):
        if not is_prime(n):  
            continue
            
-        print(n, end=" ")
+       print(n, end=" ")
 
 
 num = int(input("Enter a number: "))
