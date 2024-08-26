@@ -1,2 +1,2 @@
 # Python Practice Problems:
-Hi,everyone in this repository i am doing very basics of python practice problems to enhance the problem solving skill and master the python language.
+Hi,everyone in this repository i am doing very basics of python practice problems to enhance the problem solving skill and master the python language.Moreover I have added just the basics of SCRAPY for new users how to make a project with the help of scrapy or can do  properly scrapping with this tool.I have also added the Eight Puzzle Problem coded in python languuage on jupyternotebook for the information for a new user.
